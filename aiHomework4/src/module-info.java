@@ -7,4 +7,5 @@
  */
 module aiHomework4
 {
+	requires puzzle;
 }
